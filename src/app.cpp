@@ -11,7 +11,9 @@ App::App()
 
 bool App::OnInit()
 {	
-	
+	Frame *myFrame = new Frame();
+	myFrame->Show();
 	return true;
 }
+
 
