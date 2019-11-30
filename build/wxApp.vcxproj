@@ -101,10 +101,12 @@
   <ItemGroup>
     <ClInclude Include="..\src\app.h" />
     <ClInclude Include="..\src\frame.h" />
+    <ClInclude Include="..\src\menu_file.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\app.cpp" />
     <ClCompile Include="..\src\frame.cpp" />
+    <ClCompile Include="..\src\menu_file.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -17,12 +17,18 @@
     <ClInclude Include="..\src\frame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\src\menu_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\app.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\src\frame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\menu_file.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
